@@ -4,7 +4,6 @@ import { describe, test, it, expect } from 'vitest'
 import { basicArithmetic } from './index.js'
 
 //Test 1
-
 describe('Test 1: Addition', () => {
   it('should add two numbers correctly', () => {
     //ARRANGE
